@@ -8,7 +8,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400"/>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **UI/UX & Generative AI**
 
 - 👨‍💻 All of my projects are available at [pharaj-ally-portfolio.vercel.app/](pharaj-ally-portfolio.vercel.app/)
   
