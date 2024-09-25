@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharajking" alt="pharajking" /></a> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400"/>
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300"/>
 
 - 🌱 I’m currently learning **UI/UX**
 
