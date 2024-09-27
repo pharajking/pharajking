@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharajking&label=Profile%20views&color=0e75b6&style=flat" alt="pharajking" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharajking" alt="pharajking" /></a> </p>
-
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400"/>
-
 - 🌱 I’m currently learning **UI/UX & Generative AI**
 
 - 👨‍💻 All of my projects are available at [pharaj-ally-portfolio.vercel.app/](pharaj-ally-portfolio.vercel.app/)
