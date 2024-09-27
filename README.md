@@ -64,7 +64,7 @@ Hi 👋, I'm an Pharaj Ally data scientist, full-stack developer, Software Testi
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
+[![Creating+a+Modern+Responsive+Website+Portfolio+with+Vue.js+and+Tailwind+CSS+||+Demo+project](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=Creating a Modern Responsive Website Portfolio with Vue.js and Tailwind CSS || Demo project&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Creating a Modern Responsive Website Portfolio with Vue.js and Tailwind CSS || Demo project")]([https://www.youtube.com/watch?v=gxdQiBkidWk](https://www.youtube.com/watch?v=iC2LOZumHbw))
 
 <!-- END YOUTUBE-CARDS -->
 
