@@ -67,5 +67,7 @@ Hi 👋, I'm an Pharaj Ally data scientist, full-stack developer, Software Testi
 <br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pharajking&show_icons=true&locale=en" alt="pharajking" /></p>
+### 📊 Stats
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pharajking&show_icons=true&theme=gruvbox)
 
