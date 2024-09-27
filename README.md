@@ -1,8 +1,8 @@
 ![logo](https://github.com/pharajking/Pharaj-Ally/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Pharaj Ally</h1>
+<h1 align="center"> PK Tech Solutions</h1>
 <h3 align="center">Highly passionate about Data science, Full Stack Web development, Software Testing & Mobile development.</h3>
 
-I'm an Pharaj Ally data scientist, full-stack developer, Software Testing and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[PK Tech Solutions][youtube]" to more than 500k subscribers.
+Hi 👋, I'm an Pharaj Ally data scientist, full-stack developer, Software Testing and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[PK Tech Solutions][youtube]" to more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
